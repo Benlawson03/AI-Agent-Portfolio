@@ -243,6 +243,6 @@ Ready to transform your workflow with custom AI agents? I specialize in creating
 - **Data extraction and analysis tools**
 - **Multi-platform integrations**
 
-[📧 Get in touch](mailto:contact@example.com) or [💼 Connect on LinkedIn](https://www.linkedin.com/in/your-profile)
+[📧 Get in touch](benflawson@gmail.com) or [💼 Connect on LinkedIn](https://www.linkedin.com/in/ben-lawson-030168320/)
 
 *Let's build something intelligent together!*
